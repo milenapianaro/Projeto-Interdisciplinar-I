@@ -81,7 +81,8 @@ __- Critérios de aceite__
 
 # 3 - Design do software
 
-__a) Design Centrado no Usuário__ (https://www.designkit.org/methods.html)
+__a) Design Centrado no Usuário__
+__Link:__ (https://www.designkit.org/methods.html)
 
 <br>
 
@@ -128,7 +129,7 @@ __Acesso fácil e offline:__ Como nem sempre há sinal de internet nas áreas qu
 <br>
 
 __c) Storyboard (contexto de uso)__
-https://www.canva.com/design/DAGzK8zLpnQ/Wv83KsZ-zZKjMH3oPZ5Zkg/edit
+__Link:__ (https://www.canva.com/design/DAGzK8zLpnQ/Wv83KsZ-zZKjMH3oPZ5Zkg/edit)
 <br>
 
 __d) UI Design (guia de estilo)__
@@ -143,7 +144,7 @@ __d) UI Design (guia de estilo)__
 
 __e) Prototipação do MVP (Figma)__
 
-__Link:__ https://www.figma.com/proto/n9gjPc6w9RrYTWbxgc1Q7J/GUIA?t=q8LzyVarXPUjFwIS-0
+__Link:__ (https://www.figma.com/proto/n9gjPc6w9RrYTWbxgc1Q7J/GUIA?t=q8LzyVarXPUjFwIS-0)
 
 # 4 - Desenvolvimento 
 
@@ -159,11 +160,11 @@ A definir
 
 # 6 - Gestão do Projeto – Arquivos do Projeto
 
-__Projeto 1:__ https://drive.google.com/file/d/1ACvctgJ5pA8grGD7vTZK4M0ttRkjW0zH/view?usp=sharing
+__Projeto 1:__ (https://drive.google.com/file/d/1ACvctgJ5pA8grGD7vTZK4M0ttRkjW0zH/view?usp=sharing)
 
-__Projeto 2:__ https://drive.google.com/file/d/17j9qdkMaZCKHT3Q6JzyzwjsvHgxClnA9/view?usp=drive_link
+__Projeto 2:__ (https://drive.google.com/file/d/17j9qdkMaZCKHT3Q6JzyzwjsvHgxClnA9/view?usp=drive_link)
 
-__Contexto sequenciador - MVP e incrementos:__ www.figma.com/proto/n9gjPc6w9RrYTWbxgc1Q7J/GUIA?t=q8LzyVarXPUjFwIS-0
+__Contexto sequenciador - MVP e incrementos:__ (www.figma.com/proto/n9gjPc6w9RrYTWbxgc1Q7J/GUIA?t=q8LzyVarXPUjFwIS-0)
 
 __Detalhamento das atividades do projeto:__ A desenvolver
 
