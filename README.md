@@ -81,9 +81,7 @@ __- Critérios de aceite__
 
 # 3 - Design do software
 
-__a) Design Centrado no Usuário__
-__Link:__ (https://www.designkit.org/methods.html)
-
+__a) Design Centrado no Usuário:__ (https://www.designkit.org/methods.html)
 <br>
 
 __b) Persona__
@@ -128,8 +126,7 @@ __Acesso fácil e offline:__ Como nem sempre há sinal de internet nas áreas qu
 
 <br>
 
-__c) Storyboard (contexto de uso)__
-__Link:__ (https://www.canva.com/design/DAGzK8zLpnQ/Wv83KsZ-zZKjMH3oPZ5Zkg/edit)
+__c) Storyboard (contexto de uso):__ (https://www.canva.com/design/DAGzK8zLpnQ/Wv83KsZ-zZKjMH3oPZ5Zkg/edit)
 <br>
 
 __d) UI Design (guia de estilo)__
@@ -142,9 +139,7 @@ __d) UI Design (guia de estilo)__
 - Cinza-claro (texto secundário): #00796B
 <br>
 
-__e) Prototipação do MVP (Figma)__
-
-__Link:__ (https://www.figma.com/proto/n9gjPc6w9RrYTWbxgc1Q7J/GUIA?t=q8LzyVarXPUjFwIS-0)
+__e) Prototipação do MVP (Figma):__ (https://www.figma.com/proto/n9gjPc6w9RrYTWbxgc1Q7J/GUIA?t=q8LzyVarXPUjFwIS-0)
 
 # 4 - Desenvolvimento 
 
