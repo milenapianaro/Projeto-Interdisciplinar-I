@@ -239,9 +239,13 @@ __Contexto sequenciador - MVP e incrementos:__
 
 _Link:_ www.figma.com/proto/n9gjPc6w9RrYTWbxgc1Q7J/GUIA?t=q8LzyVarXPUjFwIS-0
 
+<br>
+
 __Resumo WIPEX__
 
 _Link:_ https://drive.google.com/file/d/1yFKuo2kwjSqjmeEGZv17y2vqzPHVKqH9/view?usp=drive_link
+
+<br>
 
 __Apresentação WIPEX__
 
